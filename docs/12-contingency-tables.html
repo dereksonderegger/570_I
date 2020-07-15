@@ -131,7 +131,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <nav role="navigation">
 
 <ul class="summary">
-<li><a href="https://dereksonderegger.github.io/570_I/Statistical_Methods_I.pdf" target="blank">PDF version</a></li>
+<li><a href="https://dereksonderegger.github.io/570_I/Statistical-Methods-I.pdf" target="blank">PDF version</a></li>
 
 <li class="divider"></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Preface</a><ul>
@@ -461,11 +461,11 @@ where the relevant parameters are <span class="math inline">\(\pi_{w}\)</span>, 
 <span id="cb463-2"><a href="12-contingency-tables.html#cb463-2"></a><span class="kw">table</span>(Mites.star)</span></code></pre></div>
 <pre><code>##           outcome
 ## treatment  no wilt wilt
-##   mites         12   14
-##   no mites       7   14</code></pre>
+##   mites         10   16
+##   no mites       9   12</code></pre>
 <div class="sourceCode" id="cb465"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb465-1"><a href="12-contingency-tables.html#cb465-1"></a><span class="kw">chisq.test</span>( <span class="kw">table</span>(Mites.star), <span class="dt">correct=</span><span class="ot">FALSE</span> )<span class="op">$</span>statistic <span class="co"># grab only the test statistic</span></span></code></pre></div>
-<pre><code>## X-squared 
-## 0.7928475</code></pre>
+<pre><code>##  X-squared 
+## 0.09320003</code></pre>
 <p>We see that this code is creating a data frame with a single column called <code>X.squared</code> and next we simulate a large number of times and display the sampling distribution of <span class="math inline">\(X^{2*}\)</span>.</p>
 <div class="sourceCode" id="cb467"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb467-1"><a href="12-contingency-tables.html#cb467-1"></a>SamplingDist &lt;-<span class="st"> </span>mosaic<span class="op">::</span><span class="kw">do</span>(<span class="dv">10000</span>)<span class="op">*</span>{</span>
 <span id="cb467-2"><a href="12-contingency-tables.html#cb467-2"></a>  Mites.star &lt;-<span class="st"> </span>Mites <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">mutate</span>(<span class="dt">treatment =</span> mosaic<span class="op">::</span><span class="kw">shuffle</span>(treatment))</span>
@@ -752,7 +752,7 @@ gitbook.start({
 "link": null,
 "text": null
 },
-"download": [["Statistical_Methods_I.pdf", "PDF"], ["Statistical_Methods_I.epub", "EPUB"]],
+"download": [["Statistical-Methods-I.pdf", "PDF"], ["Statistical-Methods-I.epub", "EPUB"]],
 "toc": {
 "collapse": "section",
 "scroll_highlight": true

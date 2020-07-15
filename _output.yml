@@ -6,13 +6,13 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: true
       before: |
-        <li><a href="https://dereksonderegger.github.io/570_I/Statistical_Methods_I.pdf" target="blank">PDF version</a></li>
+        <li><a href="https://dereksonderegger.github.io/570_I/Statistical-Methods-I.pdf" target="blank">PDF version</a></li>
       after: |
     edit:
       link: https://github.com/dereksonderegger/570_I/raw/master/%s
     download:
-      - ["Statistical_Methods_I.pdf",  "PDF"]
-      - ["Statistical_Methods_I.epub", "EPUB"]
+      - ["Statistical-Methods-I.pdf",  "PDF"]
+      - ["Statistical-Methods-I.epub", "EPUB"]
     search: yes
     fontsettings:
       theme: white
