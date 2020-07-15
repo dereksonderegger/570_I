@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 12 Contingency Tables | Introduction to Statistical Methodology, First Edition</title>
-  <meta name="description" content="Chapter 12 Contingency Tables | Introduction to Statistical Methodology, First Edition" />
+  <title>Chapter 12 Contingency Tables | Introduction to Statistical Methodology</title>
+  <meta name="description" content="Chapter 12 Contingency Tables | Introduction to Statistical Methodology" />
   <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 12 Contingency Tables | Introduction to Statistical Methodology, First Edition" />
+  <meta property="og:title" content="Chapter 12 Contingency Tables | Introduction to Statistical Methodology" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   <meta name="github-repo" content="dereksonderegger/570_I" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 12 Contingency Tables | Introduction to Statistical Methodology, First Edition" />
+  <meta name="twitter:title" content="Chapter 12 Contingency Tables | Introduction to Statistical Methodology" />
   
   
   
@@ -312,7 +312,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <div class="body-inner">
         <div class="book-header" role="navigation">
           <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Introduction to Statistical Methodology, First Edition</a>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Introduction to Statistical Methodology</a>
           </h1>
         </div>
 
@@ -461,11 +461,11 @@ where the relevant parameters are <span class="math inline">\(\pi_{w}\)</span>, 
 <span id="cb463-2"><a href="12-contingency-tables.html#cb463-2"></a><span class="kw">table</span>(Mites.star)</span></code></pre></div>
 <pre><code>##           outcome
 ## treatment  no wilt wilt
-##   mites          9   17
-##   no mites      10   11</code></pre>
+##   mites         12   14
+##   no mites       7   14</code></pre>
 <div class="sourceCode" id="cb465"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb465-1"><a href="12-contingency-tables.html#cb465-1"></a><span class="kw">chisq.test</span>( <span class="kw">table</span>(Mites.star), <span class="dt">correct=</span><span class="ot">FALSE</span> )<span class="op">$</span>statistic <span class="co"># grab only the test statistic</span></span></code></pre></div>
 <pre><code>## X-squared 
-## 0.8156621</code></pre>
+## 0.7928475</code></pre>
 <p>We see that this code is creating a data frame with a single column called <code>X.squared</code> and next we simulate a large number of times and display the sampling distribution of <span class="math inline">\(X^{2*}\)</span>.</p>
 <div class="sourceCode" id="cb467"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb467-1"><a href="12-contingency-tables.html#cb467-1"></a>SamplingDist &lt;-<span class="st"> </span>mosaic<span class="op">::</span><span class="kw">do</span>(<span class="dv">10000</span>)<span class="op">*</span>{</span>
 <span id="cb467-2"><a href="12-contingency-tables.html#cb467-2"></a>  Mites.star &lt;-<span class="st"> </span>Mites <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">mutate</span>(<span class="dt">treatment =</span> mosaic<span class="op">::</span><span class="kw">shuffle</span>(treatment))</span>
@@ -741,7 +741,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/dereksonderegger/570/raw/master/12_ContingencyTables.Rmd",
+"link": "https://github.com/dereksonderegger/570_I/raw/master/12_ContingencyTables.Rmd",
 "text": "Edit"
 },
 "history": {

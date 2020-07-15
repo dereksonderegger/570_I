@@ -1,5 +1,6 @@
 --- 
-title: "Introduction to Statistical Methodology, First Edition"
+title: "Introduction to Statistical Methodology"
+subtitle: "First Edition"
 author: "Derek L. Sonderegger"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.3.18)  14 JUL 2020 21:09
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.3.18)  14 JUL 2020 21:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -449,40 +449,40 @@ LaTeX Warning: Label `exercises' multiply defined.
 )
 \openout1 = `Statistical-Methods-I.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 116.
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 116.
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 116.
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 116.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 116.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 116.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 116.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 118.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -511,7 +511,7 @@ pt=math;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 116.
+(Font)              scaled to size 10.0pt on input line 118.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -551,18 +551,18 @@ pt=math;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 116.
+(Font)              scaled to size 10.0pt on input line 118.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 116.
+(Font)              `operators' in the math version `normal' on input line 118.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 116.
+ line 118.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 116.
+(Font)              `operators' in the math version `bold' on input line 118.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
-t line 116.
+t line 118.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -650,15 +650,15 @@ t=math;language=dflt;mapping=tex-text;"
 (fontspec)             \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 116.
+(Font)              `symbols' in the math version `normal' on input line 118.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 116.
+t line 118.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 116.
+(Font)              `symbols' in the math version `bold' on input line 118.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
-t line 116.
+t line 118.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -729,18 +729,18 @@ pt=math;language=dflt;mapping=tex-text;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 1
-16.
+18.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 116.
+t line 118.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 116
+(Font)              `largesymbols' in the math version `bold' on input line 118
 .
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
-t line 116.
+t line 118.
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 116.
+Package hyperref Info: Link coloring OFF on input line 118.
 (/Users/dls354/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 (/Users/dls354/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
@@ -752,42 +752,42 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count296
 )
-LaTeX Info: Redefining \ref on input line 116.
-LaTeX Info: Redefining \pageref on input line 116.
-LaTeX Info: Redefining \nameref on input line 116.
+LaTeX Info: Redefining \ref on input line 118.
+LaTeX Info: Redefining \pageref on input line 118.
+LaTeX Info: Redefining \nameref on input line 118.
 (./Statistical-Methods-I.out) (./Statistical-Methods-I.out)
 \@outlinefile=\write4
 \openout4 = `Statistical-Methods-I.out'.
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 118.
+(Font)              scaled to size 12.0pt on input line 120.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 118.
+(Font)              scaled to size 8.0pt on input line 120.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 118.
+(Font)              scaled to size 6.0pt on input line 120.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-18.
+20.
 (/Users/dls354/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 12.0011pt on input line 118.
+(Font)              scaled to size 12.0011pt on input line 120.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00073pt on input line 118.
+(Font)              scaled to size 8.00073pt on input line 120.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00055pt on input line 118.
+(Font)              scaled to size 6.00055pt on input line 120.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 11.99872pt on input line 118.
+(Font)              scaled to size 11.99872pt on input line 120.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 118.
+(Font)              scaled to size 7.99915pt on input line 120.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 118.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 118
+(Font)              scaled to size 5.99936pt on input line 120.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 120
 .
 (/Users/dls354/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 118
+LaTeX Font Info:    Trying to load font information for U+msb on input line 120
 .
 (/Users/dls354/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -822,7 +822,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 ] [7] [8]
 Chapter 1.
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 157.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 159.
 [9
 
 ]
@@ -862,7 +862,7 @@ File: 01_Data_Summary_files/figure-latex/unnamed-chunk-13-1.pdf Graphic file (t
 ype pdf)
 <use 01_Data_Summary_files/figure-latex/unnamed-chunk-13-1.pdf>
 [16] [17] [18]
-Underfull \hbox (badness 10000) in paragraph at lines 477--478
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
 
  []
 
@@ -878,7 +878,7 @@ File: 01_Data_Summary_files/figure-latex/unnamed-chunk-24-1.pdf Graphic file (t
 ype pdf)
 <use 01_Data_Summary_files/figure-latex/unnamed-chunk-24-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 704--711
+Underfull \hbox (badness 10000) in paragraph at lines 706--713
 []\TU/lmr/m/n/10 +——————-+———————————————————————–
  []
 
@@ -942,18 +942,18 @@ pe pdf)
 Overfull \vbox (2.13025pt too high) has occurred while \output is active []
 
 [34]
-Overfull \hbox (36.57603pt too wide) detected at line 1004
+Overfull \hbox (36.57603pt too wide) detected at line 1006
 [][]
  []
 
 [35]
-Underfull \hbox (badness 1478) in paragraph at lines 1034--1035
+Underfull \hbox (badness 1478) in paragraph at lines 1036--1037
 []\TU/lmr/m/n/10 Suppose that convertibles make up just 10% of the domestic aut
 omo-
  []
 
 
-Overfull \hbox (103.83377pt too wide) detected at line 1063
+Overfull \hbox (103.83377pt too wide) detected at line 1065
 [][]
  []
 
@@ -962,7 +962,7 @@ File: 02_Probability_files/figure-latex/unnamed-chunk-13-1.pdf Graphic file (ty
 pe pdf)
 <use 02_Probability_files/figure-latex/unnamed-chunk-13-1.pdf>
 
-Overfull \hbox (2.862pt too wide) detected at line 1142
+Overfull \hbox (2.862pt too wide) detected at line 1144
 [][]
  []
 
@@ -974,7 +974,7 @@ pe pdf)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [39] [40]
-Overfull \hbox (110.02527pt too wide) detected at line 1225
+Overfull \hbox (110.02527pt too wide) detected at line 1227
 [][]
  []
 
@@ -982,7 +982,7 @@ Overfull \hbox (110.02527pt too wide) detected at line 1225
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 1315.
+(amsmath)                 on input line 1317.
 
 File: 02_Probability_files/figure-latex/unnamed-chunk-15-1.pdf Graphic file (ty
 pe pdf)
@@ -1025,7 +1025,7 @@ File: 02_Probability_files/figure-latex/unnamed-chunk-29-1.pdf Graphic file (ty
 pe pdf)
 <use 02_Probability_files/figure-latex/unnamed-chunk-29-1.pdf>
 [54]
-Overfull \hbox (177.07999pt too wide) in paragraph at lines 1786--1799
+Overfull \hbox (177.07999pt too wide) in paragraph at lines 1788--1801
 \TU/lmr/m/n/10 Total | +============+========+=========+========+========+=====
 ===+
  []
@@ -1039,7 +1039,7 @@ File: 03_Bootstrapping_files/figure-latex/unnamed-chunk-4-1.pdf Graphic file (t
 ype pdf)
 <use 03_Bootstrapping_files/figure-latex/unnamed-chunk-4-1.pdf>
 [60]
-Overfull \hbox (33.0pt too wide) in paragraph at lines 2029--2029
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2031--2031
 []\TU/lmtt/m/n/10 ## []stat_bindot()[] using []bins = 30[]. Pick better value w
 ith []binwidth[].[] 
  []
@@ -1079,7 +1079,7 @@ type pdf)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [66] [67]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 2179--2179
+Overfull \hbox (17.25pt too wide) in paragraph at lines 2181--2181
 []\TU/lmtt/m/n/10 ## []stat_bin()[] using []bins = 30[]. Pick better value with
  []binwidth[].[] 
  []
@@ -1096,7 +1096,7 @@ File: 03_Bootstrapping_files/figure-latex/unnamed-chunk-19-1.pdf Graphic file (
 type pdf)
 <use 03_Bootstrapping_files/figure-latex/unnamed-chunk-19-1.pdf>
 [70]
-Overfull \hbox (63.25pt too wide) in paragraph at lines 2281--2281
+Overfull \hbox (63.25pt too wide) in paragraph at lines 2283--2283
  []\TU/lmtt/m/n/10 ## No documentation for []BodyTemp50[] in specified packages
  and libraries:[] 
  []
@@ -1104,23 +1104,23 @@ Overfull \hbox (63.25pt too wide) in paragraph at lines 2281--2281
 [71] [72]
 Chapter 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 2327.
+(Font)              scaled to size 24.88pt on input line 2329.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 20.74pt on input line 2327.
+(Font)              scaled to size 20.74pt on input line 2329.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 2327.
+(Font)              scaled to size 17.28pt on input line 2329.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 24.88228pt on input line 2327.
+(Font)              scaled to size 24.88228pt on input line 2329.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 20.7419pt on input line 2327.
+(Font)              scaled to size 20.7419pt on input line 2329.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 17.28157pt on input line 2327.
+(Font)              scaled to size 17.28157pt on input line 2329.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 24.87733pt on input line 2327.
+(Font)              scaled to size 24.87733pt on input line 2329.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 20.73778pt on input line 2327.
+(Font)              scaled to size 20.73778pt on input line 2329.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 17.27815pt on input line 2327.
+(Font)              scaled to size 17.27815pt on input line 2329.
 [73
 
 ]
@@ -1133,11 +1133,11 @@ file (type pdf)
 <use 04_SamplingDistribution_files/figure-latex/unnamed-chunk-6-1.pdf>
 [75] [76]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 2462.
+(Font)              scaled to size 14.4pt on input line 2464.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 14.4013pt on input line 2462.
+(Font)              scaled to size 14.4013pt on input line 2464.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 14.39845pt on input line 2462.
+(Font)              scaled to size 14.39845pt on input line 2464.
 [77]
 File: 04_SamplingDistribution_files/figure-latex/unnamed-chunk-7-1.pdf Graphic 
 file (type pdf)
@@ -1150,7 +1150,7 @@ File: 04_SamplingDistribution_files/figure-latex/Ch3_HistogramMatching-1.pdf Gr
 aphic file (type pdf)
 <use 04_SamplingDistribution_files/figure-latex/Ch3_HistogramMatching-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2638--2640
+Underfull \hbox (badness 10000) in paragraph at lines 2640--2642
 
  []
 
@@ -1258,7 +1258,7 @@ File: 06_HypothesisTests_files/figure-latex/unnamed-chunk-13-1.pdf Graphic file
 Underfull \vbox (badness 1478) has occurred while \output is active []
 
 [111]
-Underfull \hbox (badness 3128) in paragraph at lines 3390--3391
+Underfull \hbox (badness 3128) in paragraph at lines 3392--3393
 []\TU/lmr/m/n/10 Alternatively, we can do these calculations in R using the fun
 ction
  []
@@ -1280,7 +1280,7 @@ File: 06_HypothesisTests_files/figure-latex/unnamed-chunk-18-1.pdf Graphic file
  (type pdf)
 <use 06_HypothesisTests_files/figure-latex/unnamed-chunk-18-1.pdf>
 
-Underfull \hbox (badness 1270) in paragraph at lines 3542--3543
+Underfull \hbox (badness 1270) in paragraph at lines 3544--3545
 \TU/lmr/m/n/10 ability of a Type II error. That is, calculate the value of
  []
 
@@ -1301,7 +1301,7 @@ CONFIDENCE INTERVALS
  []
 
 [118]
-Overfull \hbox (75.0pt too wide) in paragraph at lines 3621--3621
+Overfull \hbox (75.0pt too wide) in paragraph at lines 3623--3623
 []\TU/lmtt/m/n/10 ##  $ Group: Factor w/ 2 levels "Caffeine","NoCaffeine": 1 1 
 1 1 1 1 1 1 1 1 ...[] 
  []
@@ -1347,7 +1347,7 @@ File: 07_Two_Samples_files/figure-latex/unnamed-chunk-18-1.pdf Graphic file (ty
 pe pdf)
 <use 07_Two_Samples_files/figure-latex/unnamed-chunk-18-1.pdf>
 [127]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 3963--3963
+Overfull \hbox (17.25pt too wide) in paragraph at lines 3965--3965
 []\TU/lmtt/m/n/10 ## alternative hypothesis: true difference in means is not eq
 ual to 0[] 
  []
@@ -1365,13 +1365,13 @@ CONFIDENCE INTERVALS
  []
 
 [130]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 4100--4100
+Overfull \hbox (17.25pt too wide) in paragraph at lines 4102--4102
 []\TU/lmtt/m/n/10 ## alternative hypothesis: true difference in means is not eq
 ual to 0[] 
  []
 
 [131]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 4121--4121
+Overfull \hbox (17.25pt too wide) in paragraph at lines 4123--4123
 []\TU/lmtt/m/n/10 ## alternative hypothesis: true difference in means is not eq
 ual to 0[] 
  []
@@ -1400,13 +1400,13 @@ File: 07_Two_Samples_files/figure-latex/unnamed-chunk-31-1.pdf Graphic file (ty
 pe pdf)
 <use 07_Two_Samples_files/figure-latex/unnamed-chunk-31-1.pdf>
 
-Overfull \hbox (17.25pt too wide) in paragraph at lines 4271--4271
+Overfull \hbox (17.25pt too wide) in paragraph at lines 4273--4273
 []\TU/lmtt/m/n/10 ## alternative hypothesis: true difference in means is not eq
 ual to 0[] 
  []
 
 
-Underfull \hbox (badness 2359) in paragraph at lines 4273--4274
+Underfull \hbox (badness 2359) in paragraph at lines 4275--4276
 []\TU/lmr/m/n/10 Notice that we didn’t specify the order for the subtraction an
 d the
  []
@@ -1422,7 +1422,7 @@ CONFIDENCE INTERVALS
  []
 
 [136]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 4342--4342
+Overfull \hbox (17.25pt too wide) in paragraph at lines 4344--4344
 []\TU/lmtt/m/n/10 ## alternative hypothesis: true difference in means is not eq
 ual to 0[] 
  []
@@ -1443,7 +1443,7 @@ CONFIDENCE INTERVALS
  []
 
 [138]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 4419--4419
+Overfull \hbox (17.25pt too wide) in paragraph at lines 4421--4421
 []\TU/lmtt/m/n/10 ## []stat_bin()[] using []bins = 30[]. Pick better value with
  []binwidth[].[] 
  []
@@ -1531,7 +1531,7 @@ File: 08_TestingAssumptions_files/figure-latex/unnamed-chunk-15-1.pdf Graphic f
 ile (type pdf)
 <use 08_TestingAssumptions_files/figure-latex/unnamed-chunk-15-1.pdf>
 [155] [156]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 5047--5047
+Overfull \hbox (12.0pt too wide) in paragraph at lines 5049--5049
 []\TU/lmtt/m/n/10 ## alternative hypothesis: true ratio of variances is not equ
 al to 1[] 
  []
@@ -1547,7 +1547,7 @@ File: 08_TestingAssumptions_files/figure-latex/unnamed-chunk-25-1.pdf Graphic f
 ile (type pdf)
 <use 08_TestingAssumptions_files/figure-latex/unnamed-chunk-25-1.pdf>
 [158]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 5131--5131
+Overfull \hbox (12.0pt too wide) in paragraph at lines 5133--5133
 []\TU/lmtt/m/n/10 ## alternative hypothesis: true ratio of variances is not equ
 al to 1[] 
  []
@@ -1557,12 +1557,12 @@ File: 08_TestingAssumptions_files/figure-latex/unnamed-chunk-28-1.pdf Graphic f
 ile (type pdf)
 <use 08_TestingAssumptions_files/figure-latex/unnamed-chunk-28-1.pdf>
 [160] [161] [162]
-Overfull \hbox (71.49016pt too wide) in alignment at lines 5281--5283
+Overfull \hbox (71.49016pt too wide) in alignment at lines 5283--5285
  [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (71.49016pt too wide) in alignment at lines 5283--5289
+Overfull \hbox (71.49016pt too wide) in alignment at lines 5285--5291
  [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
@@ -1586,62 +1586,62 @@ File: 09_ANOVA_files/figure-latex/unnamed-chunk-5-1.pdf Graphic file (type pdf)
 
 <use 09_ANOVA_files/figure-latex/unnamed-chunk-5-1.pdf>
 
-Overfull \hbox (19.56099pt too wide) in alignment at lines 5443--5447
+Overfull \hbox (19.56099pt too wide) in alignment at lines 5445--5449
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (19.56099pt too wide) in alignment at lines 5447--5452
+Overfull \hbox (19.56099pt too wide) in alignment at lines 5449--5454
  [] [] [] [] [] [] 
  []
 
 [169] [170] [171]
-Overfull \hbox (4.76747pt too wide) in paragraph at lines 5505--5506
+Overfull \hbox (4.76747pt too wide) in paragraph at lines 5507--5508
  []\TU/lmr/m/n/10 Source| 
  []
 
 
-Overfull \hbox (4.79883pt too wide) in alignment at lines 5502--5518
+Overfull \hbox (4.79883pt too wide) in alignment at lines 5504--5520
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (19.33748pt too wide) in paragraph at lines 5520--5521
+Overfull \hbox (19.33748pt too wide) in paragraph at lines 5522--5523
  []\TU/lmr/m/n/10 Difference| 
  []
 
 
-Overfull \hbox (2.73491pt too wide) in paragraph at lines 5524--5525
+Overfull \hbox (2.73491pt too wide) in paragraph at lines 5526--5527
  []$[][][][]$| 
  []
 
 
-Overfull \hbox (11.5862pt too wide) in paragraph at lines 5530--5531
+Overfull \hbox (11.5862pt too wide) in paragraph at lines 5532--5533
 []$[][][][] [] 
  []
 
 
-Overfull \hbox (14.45747pt too wide) in paragraph at lines 5533--5534
+Overfull \hbox (14.45747pt too wide) in paragraph at lines 5535--5536
  []\TU/lmr/m/n/10 Complex| 
  []
 
 
-Overfull \hbox (16.52492pt too wide) in paragraph at lines 5537--5538
+Overfull \hbox (16.52492pt too wide) in paragraph at lines 5539--5540
  []$[][][][]$| 
  []
 
 
-Overfull \hbox (5.29747pt too wide) in paragraph at lines 5546--5547
+Overfull \hbox (5.29747pt too wide) in paragraph at lines 5548--5549
  []\TU/lmr/m/n/10 Simple| 
  []
 
 
-Overfull \hbox (10.98093pt too wide) in paragraph at lines 5550--5551
+Overfull \hbox (10.98093pt too wide) in paragraph at lines 5552--5553
  []$[][][][]$| 
  []
 
 
-Overfull \hbox (4.79883pt too wide) in alignment at lines 5518--5559
+Overfull \hbox (4.79883pt too wide) in alignment at lines 5520--5561
  [] [] [] [] [] [] 
  []
 
@@ -1649,13 +1649,13 @@ Overfull \hbox (4.79883pt too wide) in alignment at lines 5518--5559
 Overfull \vbox (24.09926pt too high) has occurred while \output is active []
 
 [172]
-Overfull \hbox (38.25pt too wide) in paragraph at lines 5592--5592
+Overfull \hbox (38.25pt too wide) in paragraph at lines 5594--5594
 []\TU/lmtt/m/n/10 ##  $ LAI    : num  2.88 2.87 3.23 3.24 3.33 3.83 3.86 4.03 3
 .87 4.16 ...[] 
  []
 
 
-Overfull \hbox (22.5pt too wide) in paragraph at lines 5592--5592
+Overfull \hbox (22.5pt too wide) in paragraph at lines 5594--5594
 []\TU/lmtt/m/n/10 ##  $ Species: Factor w/ 3 levels "1","2","3": 1 1 1 1 1 2 2 
 2 2 2 ...[] 
  []
@@ -1675,13 +1675,13 @@ File: 09_ANOVA_files/figure-latex/unnamed-chunk-12-1.pdf Graphic file (type pdf
 )
 <use 09_ANOVA_files/figure-latex/unnamed-chunk-12-1.pdf>
 [177]
-Overfull \hbox (38.25pt too wide) in paragraph at lines 5762--5762
+Overfull \hbox (38.25pt too wide) in paragraph at lines 5764--5764
 []\TU/lmtt/m/n/10 ## P value adjustment: tukey method for comparing a family of
  5 estimates[] 
  []
 
 [178]
-Overfull \hbox (38.25pt too wide) in paragraph at lines 5784--5784
+Overfull \hbox (38.25pt too wide) in paragraph at lines 5786--5786
 []\TU/lmtt/m/n/10 ## P value adjustment: tukey method for comparing a family of
  5 estimates[] 
  []
@@ -1697,7 +1697,7 @@ File: 09_ANOVA_files/figure-latex/unnamed-chunk-18-1.pdf Graphic file (type pdf
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [180] [181]
-Overfull \hbox (38.25pt too wide) in paragraph at lines 5916--5916
+Overfull \hbox (38.25pt too wide) in paragraph at lines 5918--5918
 []\TU/lmtt/m/n/10 ## P value adjustment: tukey method for comparing a family of
  3 estimates[] 
  []
@@ -1715,7 +1715,7 @@ File: 09_ANOVA_files/figure-latex/unnamed-chunk-29-1.pdf Graphic file (type pdf
 )
 <use 09_ANOVA_files/figure-latex/unnamed-chunk-29-1.pdf>
 [187] [188]
-Underfull \hbox (badness 10000) in paragraph at lines 6201--6202
+Underfull \hbox (badness 10000) in paragraph at lines 6203--6204
 
  []
 
@@ -1730,12 +1730,12 @@ File: 09_ANOVA_files/figure-latex/unnamed-chunk-33-1.pdf Graphic file (type pdf
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [190] [191]
-Overfull \hbox (16.20157pt too wide) detected at line 6277
+Overfull \hbox (16.20157pt too wide) detected at line 6279
 [][][][] [] [] [] [][] [] [] [] [][] [] [] [] [][]
  []
 
 
-Overfull \hbox (9.77557pt too wide) detected at line 6288
+Overfull \hbox (9.77557pt too wide) detected at line 6290
 [][][][] [] [] [] [][] [] [] [] [][] [] [] [] [][]
  []
 
@@ -1772,17 +1772,17 @@ File: 10_Regression_files/figure-latex/unnamed-chunk-9-1.pdf Graphic file (type
 Underfull \vbox (badness 4913) has occurred while \output is active []
 
 [199] [200]
-Overfull \hbox (11.5979pt too wide) in paragraph at lines 6646--6647
+Overfull \hbox (11.5979pt too wide) in paragraph at lines 6648--6649
  []\TU/lmr/m/n/10 Coefficient| 
  []
 
 
-Overfull \hbox (1.12979pt too wide) in paragraph at lines 6648--6649
+Overfull \hbox (1.12979pt too wide) in paragraph at lines 6650--6651
  []\TU/lmr/m/n/10 Estimate| 
  []
 
 
-Overfull \hbox (4.9679pt too wide) in paragraph at lines 6659--6660
+Overfull \hbox (4.9679pt too wide) in paragraph at lines 6661--6662
  []\TU/lmr/m/n/10 Intercept 
  []
 
@@ -1790,42 +1790,42 @@ Overfull \hbox (4.9679pt too wide) in paragraph at lines 6659--6660
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [201] [202]
-Overfull \hbox (4.76747pt too wide) in paragraph at lines 6749--6750
+Overfull \hbox (4.76747pt too wide) in paragraph at lines 6751--6752
  []\TU/lmr/m/n/10 Source| 
  []
 
 
-Overfull \hbox (19.33748pt too wide) in paragraph at lines 6764--6765
+Overfull \hbox (19.33748pt too wide) in paragraph at lines 6766--6767
  []\TU/lmr/m/n/10 Difference| 
  []
 
 
-Overfull \hbox (2.73491pt too wide) in paragraph at lines 6768--6769
+Overfull \hbox (2.73491pt too wide) in paragraph at lines 6770--6771
  []$[][][][]$| 
  []
 
 
-Overfull \hbox (8.52669pt too wide) in paragraph at lines 6774--6775
+Overfull \hbox (8.52669pt too wide) in paragraph at lines 6776--6777
  []$[][][][] [] 
  []
 
 
-Overfull \hbox (14.45747pt too wide) in paragraph at lines 6777--6778
+Overfull \hbox (14.45747pt too wide) in paragraph at lines 6779--6780
  []\TU/lmr/m/n/10 Complex| 
  []
 
 
-Overfull \hbox (16.52492pt too wide) in paragraph at lines 6781--6782
+Overfull \hbox (16.52492pt too wide) in paragraph at lines 6783--6784
  []$[][][][]$| 
  []
 
 
-Overfull \hbox (5.29747pt too wide) in paragraph at lines 6790--6791
+Overfull \hbox (5.29747pt too wide) in paragraph at lines 6792--6793
  []\TU/lmr/m/n/10 Simple| 
  []
 
 
-Overfull \hbox (10.98093pt too wide) in paragraph at lines 6794--6795
+Overfull \hbox (10.98093pt too wide) in paragraph at lines 6796--6797
  []$[][][][]$| 
  []
 
@@ -1886,17 +1886,17 @@ File: 10_Regression_files/figure-latex/unnamed-chunk-33-1.pdf Graphic file (typ
 e pdf)
 <use 10_Regression_files/figure-latex/unnamed-chunk-33-1.pdf>
 [217] [218] [219]
-Overfull \hbox (73.01424pt too wide) in alignment at lines 7408--7410
+Overfull \hbox (73.01424pt too wide) in alignment at lines 7410--7412
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (9.47127pt too wide) in paragraph at lines 7445--7446
+Overfull \hbox (9.47127pt too wide) in paragraph at lines 7447--7448
  []\TU/lmr/m/n/10 Response| 
  []
 
 
-Overfull \hbox (73.01424pt too wide) in alignment at lines 7410--7478
+Overfull \hbox (73.01424pt too wide) in alignment at lines 7412--7480
  [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
@@ -1905,15 +1905,15 @@ Overfull \hbox (73.01424pt too wide) in alignment at lines 7410--7478
 ]
 Chapter 11.
 
-Overfull \hbox (6.57356pt too wide) detected at line 7537
+Overfull \hbox (6.57356pt too wide) detected at line 7539
 [][]
  []
 
 [223]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <14.4> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 7546.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 7548.
 [224] [225]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 7677--7677
+Overfull \hbox (17.25pt too wide) in paragraph at lines 7679--7679
 []\TU/lmtt/m/n/10 ## alternative hypothesis: true difference in means is not eq
 ual to 0[] 
  []
@@ -1931,18 +1931,18 @@ File: 11_Resampling_LinearModels_files/figure-latex/unnamed-chunk-16-1.pdf Grap
 hic file (type pdf)
 <use 11_Resampling_LinearModels_files/figure-latex/unnamed-chunk-16-1.pdf>
 [233]
-Underfull \hbox (badness 10000) in paragraph at lines 7886--7887
+Underfull \hbox (badness 10000) in paragraph at lines 7888--7889
 
  []
 
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 7899.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 7901.
 [234]
 File: 11_Resampling_LinearModels_files/figure-latex/unnamed-chunk-18-1.pdf Grap
 hic file (type pdf)
 <use 11_Resampling_LinearModels_files/figure-latex/unnamed-chunk-18-1.pdf>
 [235]
-Underfull \hbox (badness 1515) in paragraph at lines 7973--7974
+Underfull \hbox (badness 1515) in paragraph at lines 7975--7976
 []\TU/lmr/m/n/10 To utilize the bootstrap confidence intervals, we will use the
  function
  []
@@ -1977,13 +1977,13 @@ File: 11_Resampling_LinearModels_files/figure-latex/unnamed-chunk-38-1.pdf Grap
 hic file (type pdf)
 <use 11_Resampling_LinearModels_files/figure-latex/unnamed-chunk-38-1.pdf>
 [245] [246]
-Underfull \hbox (badness 2529) in paragraph at lines 8468--8469
+Underfull \hbox (badness 2529) in paragraph at lines 8470--8471
 []\TU/lmr/m/n/10 The \TU/lmtt/m/n/10 car::Boot() \TU/lmr/m/n/10 function cannot
  handle the grouping, but
  []
 
 
-Overfull \hbox (71.74992pt too wide) in paragraph at lines 8487--8489
+Overfull \hbox (71.74992pt too wide) in paragraph at lines 8489--8491
 []\TU/lmr/m/n/10 Call this function using \TU/lmtt/m/n/10 indices = resample(1:
 21, groups=Pollution$type)\TU/lmr/m/n/10 .
  []
@@ -1993,13 +1993,13 @@ Chapter 12.
 [249
 
 ] [250] [251]
-Overfull \hbox (69.75pt too wide) in paragraph at lines 8621--8621
+Overfull \hbox (69.75pt too wide) in paragraph at lines 8623--8623
 []\TU/lmtt/m/n/10 ##  $ treatment: Factor w/ 2 levels "mites","no mites": 1 1 1
  1 1 1 1 1 1 1 ...[] 
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 8621--8621
+Overfull \hbox (59.25pt too wide) in paragraph at lines 8623--8623
 []\TU/lmtt/m/n/10 ##  $ outcome  : Factor w/ 2 levels "no wilt","wilt": 2 2 2 2
  2 2 2 2 2 2 ...[] 
  []
@@ -2009,13 +2009,13 @@ File: 12_ContingencyTables_files/figure-latex/unnamed-chunk-11-1.pdf Graphic fi
 le (type pdf)
 <use 12_ContingencyTables_files/figure-latex/unnamed-chunk-11-1.pdf>
 [255]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 8805--8805
+Overfull \hbox (17.25pt too wide) in paragraph at lines 8807--8807
 []\TU/lmtt/m/n/10 ##  Pearson[]s Chi-squared test with simulated p-value (based
  on 10000[] 
  []
 
 [256]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 8868--8868
+Overfull \hbox (17.25pt too wide) in paragraph at lines 8870--8870
 []\TU/lmtt/m/n/10 ##  Pearson[]s Chi-squared test with simulated p-value (based
  on 10000[] 
  []
@@ -2025,18 +2025,18 @@ File: 12_ContingencyTables_files/figure-latex/unnamed-chunk-16-1.pdf Graphic fi
 le (type pdf)
 <use 12_ContingencyTables_files/figure-latex/unnamed-chunk-16-1.pdf>
 [258] [259]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 8994--8994
+Overfull \hbox (17.25pt too wide) in paragraph at lines 8996--8996
 []\TU/lmtt/m/n/10 ##  Pearson[]s Chi-squared test with simulated p-value (based
  on 1e+05[] 
  []
 
 [260]
-Overfull \hbox (1.34546pt too wide) in alignment at lines 9048--9064
+Overfull \hbox (1.34546pt too wide) in alignment at lines 9050--9066
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (1.34546pt too wide) in alignment at lines 9064--9105
+Overfull \hbox (1.34546pt too wide) in alignment at lines 9066--9107
  [] [] [] [] [] [] 
  []
 
@@ -2045,25 +2045,25 @@ File: 12_ContingencyTables_files/figure-latex/unnamed-chunk-24-1.pdf Graphic fi
 le (type pdf)
 <use 12_ContingencyTables_files/figure-latex/unnamed-chunk-24-1.pdf>
 No file Statistical-Methods-I.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9153.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9155.
 [262]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 9153.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 9155.
 (./Statistical-Methods-I.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9153.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9153.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9155.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9155.
 
 Package rerunfilecheck Info: File `Statistical-Methods-I.out' has not changed.
 (rerunfilecheck)             Checksum: 093402FC0A180D21A06C36D058263C78;11343.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 9153.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 9155.
  ) 
 Here is how much of TeX's memory you used:
- 17594 strings out of 481790
- 346943 string characters out of 5936466
+ 17595 strings out of 481790
+ 346951 string characters out of 5936466
  742602 words of memory out of 5000000
- 34288 multiletter control sequences out of 15000+600000
+ 34289 multiletter control sequences out of 15000+600000
  542729 words of font info for 113 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  52i,11n,115p,2092b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
